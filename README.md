@@ -4,9 +4,8 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI-Enhanced Project Management (AI-EPM)
 
-AI-Enhanced Project Management (AI-EPM)
 
 ## Summary
 
